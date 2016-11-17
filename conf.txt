@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 #config file
 other change
-=======
->>>>>>> 1303103f505dd1d7fee05de84be955f3dd36d04b
+
